@@ -1,4 +1,4 @@
-;;; tex-jp.el --- Support for Japanese TeX.  -*- lexical-binding: t; -*-
+;;; tex-jp.el --- Support for Japanese TeX.  -*- coding: iso-2022-jp -*- lexical-binding: t -*-
 
 ;; Copyright (C) 1999, 2001-2008, 2012-2013, 2016-2018, 2020
 ;;   Free Software Foundation, Inc.
